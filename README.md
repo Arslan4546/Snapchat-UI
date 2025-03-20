@@ -30,8 +30,8 @@ https://github.com/user-attachments/assets/e6bd3b75-32ec-4589-b238-51d1d8023e92
 ### Installation  
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/Arslan4546/Snapchat-U.git
-   cd Snapchat-U
+   git clone https://github.com/Arslan4546/Snapchat-UI.git
+   cd Snapchat-UI
    
 2. **Install Dependencies**
    ```bash
